@@ -18,6 +18,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Update account mutations with channel slug - #1039 by @orzechdev
 - Update register mutation with channel slug - #1045 by @orzechdev
 - Update queries with new channel API - #1072 by @orzechdev
+- Add 3DS support to Stripe - #1057 by @orzechdev
 
 ## 2.11.0
 
